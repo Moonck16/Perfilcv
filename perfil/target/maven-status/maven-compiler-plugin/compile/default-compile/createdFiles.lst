@@ -1,0 +1,4 @@
+dominio\Perfil.class
+dominio\PerfilBean.class
+com\mycompany\perfil\JakartaRestConfiguration.class
+com\mycompany\perfil\resources\JakartaEE91Resource.class
